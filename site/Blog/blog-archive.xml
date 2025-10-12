@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>https://iweb.corbin.io/site/Blog</link>
+    <description>Here are some blog posts mirrored from my personal blog, intended to test iWeb&#x2019;s blog publishing capabilities. The original posts are at blog.corbin.io.</description>
+    <item>
+      <title>The new Cupertino: a Firefox theme</title>
+      <link>https://iweb.corbin.io/site/Blog/Entries/2025/8/4_The_new_Cupertino__a_Firefox_theme.html</link>
+      <guid isPermaLink="false">232a8cd3-b6ce-44b5-a1c4-aa7e973c05af</guid>
+      <pubDate>Mon, 4 Aug 2025 17:10:18 -0400</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://iweb.corbin.io/site/Blog/Entries/2025/8/4_The_new_Cupertino__a_Firefox_theme.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>My domain got hijacked through GitHub</title>
+      <link>https://iweb.corbin.io/site/Blog/Entries/2025/1/11_My_domain_got_hijacked_through_GitHub.html</link>
+      <guid isPermaLink="false">04961f25-bd8a-4476-af9b-482b2bf77b23</guid>
+      <pubDate>Sat, 11 Jan 2025 17:19:29 -0500</pubDate>
+      <iweb:comment enabled="0" count="0" link="https://iweb.corbin.io/site/Blog/Entries/2025/1/11_My_domain_got_hijacked_through_GitHub.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>https://iweb.corbin.io/site/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

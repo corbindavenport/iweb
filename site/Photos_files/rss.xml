@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Photos</title>
+    <link>https://iweb.corbin.io/site/Photos.html</link>
+    <description>These are some pictures I took.</description>
+    <item>
+      <title>Sunset in the air</title>
+      <link>https://iweb.corbin.io/site/Photos.html#0</link>
+      <guid isPermaLink="false">b2991225-1ecf-4133-aa06-e36875d85340</guid>
+      <enclosure url="https://iweb.corbin.io/site/Photos_files/Media/IMG_8789/IMG_8789.jpg" length="193836" type="image/jpeg"/>
+      <iphoto:thumbnail>https://iweb.corbin.io/site/Photos_files/Media/IMG_8789/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>https://iweb.corbin.io/site/Photos_files/Media/IMG_8789/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_152_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Sunset in the air&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Me on top of a Lighthouse</title>
+      <link>https://iweb.corbin.io/site/Photos.html#1</link>
+      <guid isPermaLink="false">004a36dd-6efb-42eb-8033-24299fc629e1</guid>
+      <enclosure url="https://iweb.corbin.io/site/Photos_files/Media/IMG_1307/IMG_1307.jpg" length="541936" type="image/jpeg"/>
+      <iphoto:thumbnail>https://iweb.corbin.io/site/Photos_files/Media/IMG_1307/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>https://iweb.corbin.io/site/Photos_files/Media/IMG_1307/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_152_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Me on top of a Lighthouse&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Magic Kingdom</title>
+      <link>https://iweb.corbin.io/site/Photos.html#2</link>
+      <guid isPermaLink="false">09848680-0baa-4cae-a1fd-43b228171ed8</guid>
+      <enclosure url="https://iweb.corbin.io/site/Photos_files/Media/IMG_0834/IMG_0834.jpg" length="505014" type="image/jpeg"/>
+      <iphoto:thumbnail>https://iweb.corbin.io/site/Photos_files/Media/IMG_0834/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>https://iweb.corbin.io/site/Photos_files/Media/IMG_0834/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_152_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Magic Kingdom&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Spaceship Earth</title>
+      <link>https://iweb.corbin.io/site/Photos.html#3</link>
+      <guid isPermaLink="false">38ae4f55-7f55-4def-916e-38c39a27f931</guid>
+      <enclosure url="https://iweb.corbin.io/site/Photos_files/Media/IMG_0876/IMG_0876.jpg" length="737691" type="image/jpeg"/>
+      <iphoto:thumbnail>https://iweb.corbin.io/site/Photos_files/Media/IMG_0876/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>https://iweb.corbin.io/site/Photos_files/Media/IMG_0876/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_152_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Spaceship Earth&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Wright Brothers National Memorial</title>
+      <link>https://iweb.corbin.io/site/Photos.html#4</link>
+      <guid isPermaLink="false">4486ec72-5095-480c-8dee-5275b448e8e9</guid>
+      <enclosure url="https://iweb.corbin.io/site/Photos_files/Media/IMG_1276/IMG_1276.jpg" length="373354" type="image/jpeg"/>
+      <iphoto:thumbnail>https://iweb.corbin.io/site/Photos_files/Media/IMG_1276/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>https://iweb.corbin.io/site/Photos_files/Media/IMG_1276/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_152_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Wright Brothers National Memorial&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Figment</title>
+      <link>https://iweb.corbin.io/site/Photos.html#5</link>
+      <guid isPermaLink="false">621ff73a-8f1f-4168-b21a-31f1356613ec</guid>
+      <enclosure url="https://iweb.corbin.io/site/Photos_files/Media/IMG_0905/IMG_0905.jpg" length="308679" type="image/jpeg"/>
+      <iphoto:thumbnail>https://iweb.corbin.io/site/Photos_files/Media/IMG_0905/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>https://iweb.corbin.io/site/Photos_files/Media/IMG_0905/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_152_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Figment&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>Absolutely massive units</title>
+      <link>https://iweb.corbin.io/site/Photos.html#6</link>
+      <guid isPermaLink="false">38d5d4d8-e4dc-4492-8316-7d85662dd992</guid>
+      <enclosure url="https://iweb.corbin.io/site/Photos_files/Media/IMG_2607/IMG_2607.jpg" length="890548" type="image/jpeg"/>
+      <iphoto:thumbnail>https://iweb.corbin.io/site/Photos_files/Media/IMG_2607/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>https://iweb.corbin.io/site/Photos_files/Media/IMG_2607/micro.jpg</iweb:micro>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_152_32&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;Absolutely massive units&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:90C60999-4AD6-4463-8A39-DE80A31345C5</id>
+ <title>Page list Atom feed</title>
+ <updated>2025-10-12T17:30:23-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:9BB2D905-ECBF-4CAD-B40D-18EDACEDD2A2</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">9BB2D905-ECBF-4CAD-B40D-18EDACEDD2A2</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2025-10-12T17:30:23.001-04:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:19C5A490-C0DF-454E-894C-1AA26C1EE00E</id>
+  <title>Blog</title>
+  <title xmlns="urn:iweb:">Blog</title>
+  <in-navbar xmlns="urn:iweb:">19C5A490-C0DF-454E-894C-1AA26C1EE00E</in-navbar>
+  <link rel="alternate" href="Blog/Blog.html"/>
+  <updated>2025-10-12T17:30:23.002-04:00</updated>
+  <content>Blog</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:E1AF7283-5912-49F5-AA79-DE53CE5A3249</id>
+  <title>About Me</title>
+  <title xmlns="urn:iweb:">About Me</title>
+  <in-navbar xmlns="urn:iweb:">E1AF7283-5912-49F5-AA79-DE53CE5A3249</in-navbar>
+  <link rel="alternate" href="About_Me.html"/>
+  <updated>2025-10-12T17:30:23.003-04:00</updated>
+  <content>About Me</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:43CB2104-AB0C-4B5A-806C-F3D86F77ABE4</id>
+  <title>Photos</title>
+  <title xmlns="urn:iweb:">Photos</title>
+  <in-navbar xmlns="urn:iweb:">43CB2104-AB0C-4B5A-806C-F3D86F77ABE4</in-navbar>
+  <link rel="alternate" href="Photos.html"/>
+  <updated>2025-10-12T17:30:23.004-04:00</updated>
+  <content>Photos</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:C3AAA0C2-A595-4236-BEBA-9AA20F57E999</id>
+  <title>Videos</title>
+  <title xmlns="urn:iweb:">Videos</title>
+  <in-navbar xmlns="urn:iweb:">C3AAA0C2-A595-4236-BEBA-9AA20F57E999</in-navbar>
+  <link rel="alternate" href="Videos.html"/>
+  <updated>2025-10-12T17:30:23.005-04:00</updated>
+  <content>Videos</content>
+ </entry>
+</feed>
